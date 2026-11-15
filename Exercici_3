@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tornei nom="Lliga Local de Pàdel 2025" temporada="2025">
+<equips>
+
+<equip ID="10">
+<nom>Raquetes Blaves</nom>
+<jugadors>
+<nom_jugador dorsal="1" categoria="A">Carles Vidal</nom_jugador>
+<nom_jugador dorsal="2" categoria="B">Marta Puig</nom_jugador>
+</jugadors>
+</equip>
+
+<equip ID="11">
+<nom>Smash FC</nom>
+<jugadors>
+<nom_jugador dorsal="1" categoria="A">Jordi Roca</nom_jugador>
+<nom_jugador dorsal="2" categoria="A">Laia Solà</nom_jugador>
+<nom_jugador dorsal="3" categoria="B">Pere Mas</nom_jugador>
+</jugadors>
+</equip>
+
+</equips>
+</tornei>
