@@ -1,0 +1,47 @@
+{
+"enquestes": [{
+"id": 1,
+"titol": "Inquilino",
+"activa": true,
+"preguntes": [
+ {
+"ordre": 1,
+"text": "¿Te consideras un buen inquilino?",
+"tipus": "opcio_multiple",
+"opcions": [
+"Sí",
+"No",
+"A veces"
+]
+},
+{
+"ordre": 2,
+"text": "¿Te alquilarías una casa a ti mismo?",
+"tipus": "text_lliure"
+}
+]
+},
+{
+"id": 2,
+"titol": "Propietario",
+"activa": false,
+"preguntes": [
+{
+"ordre": 1,
+"text": "¿Quieres tener más viviendas?",
+"tipus": "opcio_multiple",
+"opcions": [
+"Sí",
+"No",
+"No lo sé"
+]
+},
+{
+"ordre": 2,
+"text": "¿Crees que conlleva muchos problemas tener una vivienda?",
+"tipus": "text_lliure"
+}
+]
+}
+]
+}
